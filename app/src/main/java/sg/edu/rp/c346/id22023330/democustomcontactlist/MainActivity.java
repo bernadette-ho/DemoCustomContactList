@@ -20,8 +20,8 @@ public class MainActivity extends AppCompatActivity {
 
         lvContact = findViewById(R.id.listViewContacts);
         alContactList = new ArrayList<>();
-        Contact item1 = new Contact("Mary", 65, 1234567, 'F');
-        Contact item2 = new Contact("Ken", 65, 7654321, 'M');
+        Contact item1 = new Contact("Mary", 65, 65442334, 'F');
+        Contact item2 = new Contact("Ken", 65, 97442437, 'M');
         alContactList.add(item1);
         alContactList.add(item2);
 
